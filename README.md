@@ -6,7 +6,6 @@ Built with **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
 ---
 
 ## ✨ Features
-<img width="1919" height="1023" alt="Screenshot 2025-09-14 132134" src="https://github.com/user-attachments/assets/c4250b00-19f0-4826-9088-b627b59c1402" />
 
 ✅ User registration & login with JWT authentication  
 ✅ Browse and search travel packages  
