@@ -19,17 +19,13 @@ Built with **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
 
 ## 📸 Screenshots
 
-> 💡 Tip: To update screenshots → edit this README on GitHub → drag & drop images into the editor → GitHub will auto-upload and insert the links.
-
 ### User Interface
-![Home Page](![Uploading Screenshot 2025-09-14 132134.png…]()
-)  
-![Package Booking Page](PUT_LINK_HERE)
+![Home Page](https://github.com/user-attachments/assets/c4250b00-19f0-4826-9088-b627b59c1402)  
+![Package Booking Page](https://github.com/user-attachments/assets/03c245ca-a30c-41bd-8ece-4a6e2c3160e8)
 
 ### Admin Panel
-![Admin Dashboard](PUT_LINK_HERE)  
-![Add Package Page](PUT_LINK_HERE)  
-![All Payments Page](PUT_LINK_HERE)
+![Admin Dashboard](https://github.com/user-attachments/assets/46994168-d698-4a71-9dcc-157a06fce795)  
+![Add Package Page](https://github.com/user-attachments/assets/e4ee24da-2093-4083-b81d-0d0502ac28f5)
 
 ---
 
